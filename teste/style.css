@@ -1,0 +1,383 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+.khabsjnasdk {
+        height: 450px;
+        width: 100%;
+        background: linear-gradient(137deg, rgb(36 46 80), rgb(0 0 0) 100%);
+}
+
+.alhdjansda {
+        margin-top: 5%;
+        margin-left: 20%;
+}
+
+.lajdjadsad {
+        margin-left: 60%;
+        margin-top: -2%;
+}
+
+.kandklsalds {
+        color: white;
+        margin-left: 60%;
+        margin-top: -4%;
+}
+
+.kjbdsknfkds {
+        margin-left: 28%;
+        margin-top: -1%;
+        width: 16%;
+        height: 9%;
+        text-align: center;
+        border: none;
+        outline: none;
+}
+
+.aldlksajdlk {
+        margin-left: 25%;
+        margin-top: 8%;
+        font-size: 20px;
+        color: white;
+}
+
+.dshfjsnlf {
+        color: white;
+        margin-left: 28%;
+        width: 16%;
+        height: 8%;
+        border: none;
+        margin-top: 0.50%;
+        background: rgb(24, 42, 115);
+}
+
+.hkasdkjasd {
+        background-color: rgb(246, 246, 246);
+        width: 100%;
+        height: 408px;
+}
+
+.lasndlkmsad {
+        background: linear-gradient(to bottom, rgb(29, 38, 60) 40%, #fff 20%);
+        margin-top: -1%;
+        height: 65%;
+        margin-left: 20%;
+        width: 15%;
+}
+
+.kajsbdkjsand {
+        text-align: center;
+        font-size: 50px;
+        margin-top: -12px;
+        color: white;
+        margin-left: -20%;
+}
+
+.jadbjnsad {
+        font-size: 40px;
+        margin-top: 15%;
+        margin-left: 15%;
+}
+
+.sandjnasdlk {
+        font-size: 10px;
+        margin-left: 18%;
+        font-size: 13px;
+        margin-top: -12%;
+}
+
+.kajsdjknsd {
+        font-size: 10px;
+        margin-top: -8%;
+        margin-left: 18%;
+}
+
+.kjadkja {
+        margin-left: 4%;
+        height: 15%;
+        width: 210px;
+        background: rgb(34, 61, 120);
+        color: #fff;
+        font-size: 20px;
+        border: none;
+        outline: none;
+        margin-top: -2%;
+}
+
+.lasndlkmsad-2 {
+        background: linear-gradient(to bottom, rgb(29, 38, 60) 40%, #fff 20%);
+        height: 65%;
+        width: 15%;
+        margin-left: 36%;
+        margin-top: -18%;
+}
+
+.lasndlkmsad-3 {
+        background: linear-gradient(to bottom, rgb(29, 38, 60) 40%, #fff 20%);
+        height: 65%;
+        width: 15%;
+        margin-left: 52%;
+        margin-top: -18%;
+}
+
+.lasndlkmsad-4 {
+        background: linear-gradient(to bottom, rgb(29, 38, 60) 40%, #fff 20%);
+        height: 65%;
+        width: 15%;
+        margin-left: 68%;
+        margin-top: -18%;
+}
+
+.ljandjlkmasd {
+        background: #fff;
+        width: 100%;
+        margin-top: 5%;
+}
+
+.ihabdnsad {
+        color: black;
+        font-size: 20px;
+        text-align: center;
+        padding: 3%;
+        margin-left: 20%;
+        margin-left: -40px;
+}
+
+.iyagsdiusja {
+        width: 12%;
+        margin-left: 42%;
+        margin-top: -5%;
+}
+
+.ajhdjadmlkasd {
+        width: 100%;
+        height: 30%;
+        background-color: white;
+}
+
+.sadjnasjdn {
+        margin-top: 3%;
+        margin-left: 27%;
+}
+
+.asjdhajdm {
+        width: 100%;
+        height: 50%;
+        background: #fff;
+}
+
+.kahbdsa {
+        margin-top: -15%;
+        margin-left: 15%;
+}
+
+.djhbdsj {
+        color: rgb(11, 11, 11);
+        padding: 5%;
+        margin-left: 25%;
+}
+
+.oalodkams {
+        margin-left: 85%;
+        margin-top: -20%;
+}
+
+.modal {
+        margin-top: 200%;
+
+
+
+}
+
+/* Media Query para dispositivos móveis */
+@media (max-width: 768px) {
+        .khabsjnasdk {
+                width: 110%;
+                /* Altura automática para conteúdo adaptável */
+        }
+
+        .alhdjansda {
+                margin-left: 10%;
+        }
+
+        .lajdjadsad {
+                margin-left: 50%;
+                width: 40%;
+                margin-top: -5%;
+        }
+
+        .kandklsalds {
+                margin-left: 40%;
+                margin-top: -8%;
+                display: none;
+        }
+
+        .kjbdsknfkds {
+                margin-left: 26%;
+                margin-top: -5%;
+                width: 50%;
+                height: 10%;
+        }
+
+        .aldlksajdlk {
+                margin-left: 18%;
+                margin-top: 10%;
+                font-size: 15px;
+        }
+
+        .dshfjsnlf {
+                margin-left: 26%;
+                width: 50%;
+                height: 10%;
+                margin-top: 3%;
+        }
+
+        .hkasdkjasd {
+                width: 110%;
+                height: 750px;
+                background: rgb(246, 246, 246);
+        }
+
+        .lasndlkmsad {
+                margin-top: -5%;
+                margin-left: 3%;
+                width: 42%;
+                height: 300px;
+        }
+
+        .kajsbdkjsand {
+                margin-left: 0%;
+        }
+
+        .jadbjnsad {
+                font-size: 30px;
+                margin-top: 20%;
+                margin-left: 10%;
+        }
+
+        .sandjnasdlk {
+                font-size: 15px;
+                margin-left: 10%;
+                margin-top: 0%;
+                color: blueviolet;
+        }
+
+        .kajsdjknsd {
+                margin-top: -5pz;
+                margin-left: 10%;
+                font-size: 15px;
+        }
+
+        .kjadkja {
+                margin-top: -13px;
+                width: 90%;
+
+
+
+
+
+        }
+
+        .lasndlkmsad-2 {
+                margin-top: -300px;
+                margin-left: 47%;
+                width: 42%;
+                height: 300px;
+        }
+
+
+        .lasndlkmsad-3 {
+                margin-top: 5%;
+                margin-left: 3%;
+                width: 42%;
+                height: 300px;
+        }
+
+        .lasndlkmsad-4 {
+                margin-top: -300px;
+                margin-left: 47%;
+                width: 42%;
+                height: 300px;
+        }
+
+        .ljandjlkmasd {
+                margin-top: 0%;
+        }
+
+        .ihabdnsad {
+                margin-left: -3%;
+                margin-top: 5%;
+                font-size: 15px;
+                display: none;
+                padding: 2%;
+        }
+
+        .iyagsdiusja {
+                margin-top: 0%;
+                margin-left: 35%;
+                width: 30%;
+                display: none;
+        }
+
+        .ajhdjadmlkasd {
+                width: 100%;
+                margin-left: 2%;
+                background: #fff;
+                margin-top: 30%;
+        }
+
+        .sadjnasjdn {
+                margin-top: 8%;
+                width: 85%;
+                height: 20%;
+                margin-left: 1%;
+        }
+
+        .asjdhajdm {
+                margin-top: 0%;
+        }
+
+        .kahbdsa {
+                margin-top: 0%;
+                margin-left: 0%;
+        }
+
+        .djhbdsj {
+                margin-top: -1%;
+                margin-left: 10%;
+                padding: 2%;
+        }
+
+        .oalodkams {
+                margin-left: 0%;
+                margin-top: 0%;
+        }
+
+        .asdasdasd {
+
+                width: 30%;
+
+
+        }
+
+        .asdasdgdfsg {
+                font-size: 10px;
+                text-align: center;
+                margin-top: -30%;
+
+
+
+        }
+
+        .oilsjfoiusf {
+                margin-left: 70%;
+                margin-top: 6%;
+
+
+
+        }
+
+
+}
